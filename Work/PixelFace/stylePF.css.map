@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,QAAQ,CAAA;EACJ,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,CAAC;CACX",
-    "sources": [
-        "stylePF.scss"
-    ],
-    "names": [],
-    "file": "stylePF.css"
-}
+{"version":3,"sources":["stylePF.scss","stylePF.css"],"names":[],"mappings":"AAAA;EACI,cAAA;EACA,QAAA;ACCJ","file":"stylePF.css"}

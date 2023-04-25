@@ -1,17 +1,15 @@
 @font-face {
-  font-family: 'NotoSerifTC-Ubuntu';
+  font-family: "NotoSerifTC-Ubuntu";
   src: url("fonts/NotoSansTC-Light.otf");
   font-weight: 300;
-  unicode-range: U+4E00-9FFF,U+3100-312F;
+  unicode-range: U+4E00-9FFF, U+3100-312F;
 }
-
 @font-face {
-  font-family: 'NotoSerifTC-Ubuntu';
+  font-family: "NotoSerifTC-Ubuntu";
   src: url("fonts/Ubuntu-Light.ttf");
   font-weight: 300;
   unicode-range: U+00-024F;
 }
-
 body {
   height: 100%;
   padding: 0;
@@ -83,8 +81,7 @@ a {
 
 a:hover {
   color: #FF7F50;
-  -webkit-transition-duration: 0.3s;
-          transition-duration: 0.3s;
+  transition-duration: 0.3s;
 }
 
 .text {
@@ -110,12 +107,8 @@ a:hover {
 .pic {
   position: relative;
   top: 25px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
 }
 
 .imgStyle {
@@ -133,5 +126,4 @@ a:hover {
   color: #4a3a34;
   font-size: 15px;
   line-height: 26px;
-}
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
